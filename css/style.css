@@ -26,7 +26,7 @@ body {
   right: 0;
   z-index: 10;
   margin-top: 20px;
-  margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+  margin-left: 130px;
 }
 
 /* Remove border and change up box shadow for more contrast */
@@ -60,10 +60,6 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-
-div.marketing {
-	margin-top: 70px;
-}
 
 .marketing .span4 {
   text-align: center;
